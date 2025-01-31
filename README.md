@@ -22,15 +22,18 @@ A React-based web application for taking interactive quizzes with advanced gamif
 ``
 git clone git@github.com:leelee222/Quiz-App.git
 
+``
+
 2. Install dependencies
 ``
 npm install
 # or
 yarn install
-
+``
 
 3. Start the development server
 ``
 npm start
 # or
 yarn start
+``
